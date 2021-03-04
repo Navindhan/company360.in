@@ -119,7 +119,7 @@ body{
 .footer .circle:first-child{
 	background: rgba(30,30,30,0.9);
 }
-@media(min-width: 260px) and (max-width: 970px){
+@media(min-width: 260px) and (max-width: 1200px){
 	.container .box{
 		position: absolute;
 		width: calc(100% - 4px);
