@@ -14,3 +14,4 @@ for(var i=0;i<circle.length;i++){
 		box[idNo].style.zIndex=3;
 	})
 }
+document.write(window.innerWidth);
